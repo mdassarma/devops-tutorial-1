@@ -32,3 +32,5 @@ A [lint](http://en.wikipedia.org/wiki/Lint_programming_tool) tool performs stati
 - The path for the files to be linted can be changed in the `gulpfile.js` in the `paths.css` object
 - The basic configuration settings for csslint can be found in the `.csslintrc` file. Visit this [LINK] (https://github.com/CSSLint/csslint/wiki/Rules) to add/edit more configurations in the `.csslintrc` file.
 
+## This is a learning section
+- Fork your project to do independent work.
